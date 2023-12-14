@@ -22,9 +22,7 @@ PC上当然是：[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23179
 
 ### 个人网站
 
-资源站：[tangtangpan.tangspace.cn](https://tangtangpan.tangspace.cn)
-
-论坛：[bbs.tangspace.cn](https://bbs.tangspace.cn)
+博客：[tangspace.cn](https://tangspace.cn)
 
 ### 交流群
 
