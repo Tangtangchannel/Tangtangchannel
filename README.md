@@ -18,7 +18,7 @@ PC上当然是：[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%23179
 
 我用于写前端的IDE。
 
-很好用。
+很好用。（但我一般会直接开vscode
 
 ### 个人网站
 
